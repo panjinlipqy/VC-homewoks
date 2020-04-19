@@ -1,0 +1,47 @@
+﻿生成启动时间为 2020/3/17 14:41:35。
+     1>项目“C:\VC-MFC-codes\MFCtext6\MFCtext6\MFCtext6.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\VC-MFC-codes\MFCtext6\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\MFCtext6.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MFCtext6.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFCtext6.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp MFCtext6.cpp MFCtext6Doc.cpp MFCtext6View.cpp
+         MFCtext6View.cpp
+         MFCtext6Doc.cpp
+         MFCtext6.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCtext6.res" MFCtext6.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFCtext6.exe.embed.manifest.res" Debug\MFCtext6_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCtext6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.lib" /MACHINE:X86 Debug\MFCtext6.res
+         Debug\MFCtext6.exe.embed.manifest.res
+         Debug\MainFrm.obj
+         Debug\MFCtext6.obj
+         Debug\MFCtext6Doc.obj
+         Debug\MFCtext6View.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFCtext6.exe.embed.manifest" /manifest Debug\MFCtext6.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFCtext6.exe.embed.manifest.res" Debug\MFCtext6_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCtext6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.lib" /MACHINE:X86 Debug\MFCtext6.res
+         Debug\MFCtext6.exe.embed.manifest.res
+         Debug\MainFrm.obj
+         Debug\MFCtext6.obj
+         Debug\MFCtext6Doc.obj
+         Debug\MFCtext6View.obj
+         Debug\stdafx.obj
+         MFCtext6.vcxproj -> C:\VC-MFC-codes\MFCtext6\Debug\MFCtext6.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFCtext6.unsuccessfulbuild”。
+         正在对“Debug\MFCtext6.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\VC-MFC-codes\MFCtext6\MFCtext6\MFCtext6.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:48.48
