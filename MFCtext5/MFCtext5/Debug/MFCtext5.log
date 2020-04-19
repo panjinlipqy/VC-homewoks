@@ -1,0 +1,39 @@
+﻿生成启动时间为 2020/3/29 20:31:53。
+     1>项目“C:\VC-MFC-codes\MFCtext5\MFCtext5\MFCtext5.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MFCtext5.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MFCtext5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFCtext5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp MFCtext5.cpp MFCtext5Doc.cpp MFCtext5View.cpp
+         MFCtext5View.cpp
+         MFCtext5Doc.cpp
+         MFCtext5.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCtext5.res" MFCtext5.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFCtext5.exe.embed.manifest.res" Debug\MFCtext5_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\VC-MFC-codes\MFCtext5\Debug\MFCtext5.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCtext5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\VC-MFC-codes\MFCtext5\Debug\MFCtext5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\VC-MFC-codes\MFCtext5\Debug\MFCtext5.lib" /MACHINE:X86 Debug\MFCtext5.res
+         Debug\MFCtext5.exe.embed.manifest.res
+         Debug\MainFrm.obj
+         Debug\MFCtext5.obj
+         Debug\MFCtext5Doc.obj
+         Debug\MFCtext5View.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFCtext5.exe.embed.manifest" /manifest Debug\MFCtext5.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MFCtext5.vcxproj -> C:\VC-MFC-codes\MFCtext5\Debug\MFCtext5.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFCtext5.unsuccessfulbuild”。
+         正在对“Debug\MFCtext5.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\VC-MFC-codes\MFCtext5\MFCtext5\MFCtext5.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:35.89
