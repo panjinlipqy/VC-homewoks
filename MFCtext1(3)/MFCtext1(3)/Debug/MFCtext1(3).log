@@ -1,0 +1,47 @@
+﻿生成启动时间为 2020/3/29 20:54:23。
+     1>项目“C:\vc代码暂存\MFCtext1(3)\MFCtext1(3)\MFCtext1(3).vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\vc代码暂存\MFCtext1(3)\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\MFCtext1(3).unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MFCtext1(3).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFCtext1(3).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp "MFCtext1(3).cpp" "MFCtext1(3)Doc.cpp" "MFCtext1(3)View.cpp"
+         MFCtext1(3)View.cpp
+         MFCtext1(3)Doc.cpp
+         MFCtext1(3).cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCtext1(3).res" "MFCtext1(3).rc" 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFCtext1(3).exe.embed.manifest.res" "Debug\MFCtext1(3)_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCtext1(3).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).lib" /MACHINE:X86 "Debug\MFCtext1(3).res"
+         "Debug\MFCtext1(3).exe.embed.manifest.res"
+         Debug\MainFrm.obj
+         "Debug\MFCtext1(3).obj"
+         "Debug\MFCtext1(3)Doc.obj"
+         "Debug\MFCtext1(3)View.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFCtext1(3).exe.embed.manifest" /manifest "Debug\MFCtext1(3).exe.intermediate.manifest" "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MFCtext1(3).exe.embed.manifest.res" "Debug\MFCtext1(3)_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCtext1(3).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).lib" /MACHINE:X86 "Debug\MFCtext1(3).res"
+         "Debug\MFCtext1(3).exe.embed.manifest.res"
+         Debug\MainFrm.obj
+         "Debug\MFCtext1(3).obj"
+         "Debug\MFCtext1(3)Doc.obj"
+         "Debug\MFCtext1(3)View.obj"
+         Debug\stdafx.obj
+         MFCtext1(3).vcxproj -> C:\vc代码暂存\MFCtext1(3)\Debug\MFCtext1(3).exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFCtext1(3).unsuccessfulbuild”。
+         正在对“Debug\MFCtext1(3).lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\vc代码暂存\MFCtext1(3)\MFCtext1(3)\MFCtext1(3).vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:35.00
