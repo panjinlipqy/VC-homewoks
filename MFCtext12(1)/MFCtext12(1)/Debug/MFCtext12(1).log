@@ -1,0 +1,22 @@
+﻿生成启动时间为 2020/5/4 16:36:39。
+     1>项目“C:\vc代码暂存\MFCtext12(1)\MFCtext12(1)\MFCtext12(1).vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFCtext12(1).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Dlg.cpp
+         Dlg.cpp
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(3): warning C4627: “#include "MFCtext12(1)Doc.h"”: 在查找预编译头使用时跳过
+                 将指令添加到“StdAfx.h”或重新生成预编译头
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(4): warning C4627: “#include "MFCtext12(1)View.h"”: 在查找预编译头使用时跳过
+                 将指令添加到“StdAfx.h”或重新生成预编译头
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(72): error C2065: “CMFCtext121Doc”: 未声明的标识符
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(72): error C2065: “pDoc”: 未声明的标识符
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(72): error C2065: “CMFCtext121View”: 未声明的标识符
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(72): error C2059: 语法错误:“)”
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(73): error C2065: “pDoc”: 未声明的标识符
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(73): error C2227: “->s1”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>c:\vc代码暂存\mfctext12(1)\mfctext12(1)\dlg.cpp(73): error C3861: “SetDlgtemText”: 找不到标识符
+     1>已完成生成项目“C:\vc代码暂存\MFCtext12(1)\MFCtext12(1)\MFCtext12(1).vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.17
