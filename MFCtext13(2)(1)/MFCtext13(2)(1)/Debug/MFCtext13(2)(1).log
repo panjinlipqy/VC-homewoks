@@ -1,0 +1,41 @@
+﻿生成启动时间为 2020/5/4 20:01:53。
+     1>项目“C:\vc代码暂存\MFCtext13(2)(1)\MFCtext13(2)(1)\MFCtext13(2)(1).vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MFCtext13(2)(1).unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFCtext13(2)(1).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Dlg2.cpp MainFrm.cpp "MFCtext13(2)(1).cpp" "MFCtext13(2)(1)Doc.cpp" "MFCtext13(2)(1)View.cpp"
+         Dlg2.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         MFCtext13(2)(1)View.cpp
+         MFCtext13(2)(1)Doc.cpp
+         MFCtext13(2)(1).cpp
+         MainFrm.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCtext13(2)(1).res" "MFCtext13(2)(1).rc" 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\vc代码暂存\MFCtext13(2)(1)\Debug\MFCtext13(2)(1).exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCtext13(2)(1).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\vc代码暂存\MFCtext13(2)(1)\Debug\MFCtext13(2)(1).pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\vc代码暂存\MFCtext13(2)(1)\Debug\MFCtext13(2)(1).lib" /MACHINE:X86 "Debug\MFCtext13(2)(1).res"
+         "Debug\MFCtext13(2)(1).exe.embed.manifest.res"
+         Debug\Dlg2.obj
+         Debug\MainFrm.obj
+         "Debug\MFCtext13(2)(1).obj"
+         "Debug\MFCtext13(2)(1)Doc.obj"
+         "Debug\MFCtext13(2)(1)View.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFCtext13(2)(1).exe.embed.manifest" /manifest "Debug\MFCtext13(2)(1).exe.intermediate.manifest" "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MFCtext13(2)(1).vcxproj -> C:\vc代码暂存\MFCtext13(2)(1)\Debug\MFCtext13(2)(1).exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFCtext13(2)(1).unsuccessfulbuild”。
+         正在对“Debug\MFCtext13(2)(1).lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\vc代码暂存\MFCtext13(2)(1)\MFCtext13(2)(1)\MFCtext13(2)(1).vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.04
