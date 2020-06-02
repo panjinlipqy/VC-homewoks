@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCtext14实验1", "MFCtext14实验1\MFCtext14实验1.vcxproj", "{419CF126-D9E1-4559-8CA6-E44089E10AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419CF126-D9E1-4559-8CA6-E44089E10AA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{419CF126-D9E1-4559-8CA6-E44089E10AA5}.Debug|Win32.Build.0 = Debug|Win32
+		{419CF126-D9E1-4559-8CA6-E44089E10AA5}.Release|Win32.ActiveCfg = Release|Win32
+		{419CF126-D9E1-4559-8CA6-E44089E10AA5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
