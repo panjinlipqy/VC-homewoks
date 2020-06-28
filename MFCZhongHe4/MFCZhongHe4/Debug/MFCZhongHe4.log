@@ -1,0 +1,44 @@
+﻿生成启动时间为 2020/6/9 11:04:04。
+     1>项目“C:\vc代码暂存\MFCZhongHe4\MFCZhongHe4\MFCZhongHe4.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MFCZhongHe4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFCZhongHe4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MFCZhongHe4View.cpp
+         MFCZhongHe4View.cpp
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(135): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(136): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(141): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(147): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(171): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(172): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(177): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\vc代码暂存\mfczhonghe4\mfczhonghe4\mfczhonghe4view.cpp(183): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\vc代码暂存\MFCZhongHe4\Debug\MFCZhongHe4.exe" /INCREMENTAL /NOLOGO odbc32.lib /MANIFEST /ManifestFile:"Debug\MFCZhongHe4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\vc代码暂存\MFCZhongHe4\Debug\MFCZhongHe4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\vc代码暂存\MFCZhongHe4\Debug\MFCZhongHe4.lib" /MACHINE:X86 Debug\MFCZhongHe4.res
+         Debug\MFCZhongHe4.exe.embed.manifest.res
+         Debug\BigShow.obj
+         Debug\MainFrm.obj
+         Debug\MFCZhongHe4.obj
+         Debug\MFCZhongHe4Doc.obj
+         Debug\MFCZhongHe4Set.obj
+         Debug\MFCZhongHe4View.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFCZhongHe4.exe.embed.manifest" /manifest Debug\MFCZhongHe4.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MFCZhongHe4.vcxproj -> C:\vc代码暂存\MFCZhongHe4\Debug\MFCZhongHe4.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFCZhongHe4.unsuccessfulbuild”。
+         正在对“Debug\MFCZhongHe4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\vc代码暂存\MFCZhongHe4\MFCZhongHe4\MFCZhongHe4.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.63
